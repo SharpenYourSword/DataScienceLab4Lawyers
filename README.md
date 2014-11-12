@@ -31,8 +31,8 @@ In other words, TYPE THE EXAMPLES. What first seems bizare soon becomes recogniz
 
 Typing is control, too. This lab introduces essential key strokes that will make you super powerful and save you time.
 
-### The right way to use copy and paste
-Some commands are long and complicated. I copy and paste the long command into my plain text editor. Then below the command on a new line, I type the command chareacter by character. I do this a few times depending on how well I want to learn the command at that moment. Now having typed the command for practice, I might type it in the command line or even just copy and paste it to command line so there are no errors.  
+#### What about complicated commands sequences that are hard to type correctly?  
+It's frustrating finding and correcting errors in long, complicated commands. When this arrises, I combine typing with copy and paste. Copy and paste the long command into a plain text editor. Then on a new line right below, type the command character by character. Do this one or more times to grok the command. Then copy and paste what you typed into the command line to avoid typos.
 
 ## The Files
 
