@@ -11,6 +11,7 @@ Online browsing | https://data.consumerfinance.gov/dataset/Consumer-Complaints/x
 
 ## IRS Statistics of Income (SOI) Data for 2012
 IRS published aggregated stats on income organized by zip codes
+
 Name:                         | URL:                                       
 ------------------------------|--------------------------------------------
 IRS SOI 2012 data sets | http://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-2012-ZIP-Code-Data-%28SOI%29
