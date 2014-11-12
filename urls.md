@@ -1,9 +1,13 @@
 # Data URLs for Lab
 
 ## Consumer Finance Complaint Database
+
 CFBP's database of complaints related to consumer financial products. Covers 2010 to 2014 as of this posting, 50MB.
-Name:                         | URL:                                       
-------------------------------|--------------------------------------------
+
+You type the command: | Computer will:
+------------------------------|------
+`ls`, `ls -alh` | _list_ files in current directory 
+`pwd` | show name of _present working directory_
 Consumer Finance Complaint Database | http://www.consumerfinance.gov/complaintdatabase/
 CSV file of Consumer Finance Complaint Database | https://data.consumerfinance.gov/api/views/x94z-ydhh/rows.csv?accessType=DOWNLOAD
 Online browsing | https://data.consumerfinance.gov/dataset/Consumer-Complaints/x94z-ydhh?
