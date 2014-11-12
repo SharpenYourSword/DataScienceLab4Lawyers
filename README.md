@@ -2,3 +2,41 @@ DataScienceLab
 ==============
 
 Lab Sessions for Learning Data Science
+
+## About
+I've wanted to create an introduction to data and compute for a while. Running a hanss-on lab for Tanina Rostein's Iron Tech Lawyer class provied the chance. 
+
+This lab is an interactive, hands-on 2 hours session. It does not matter if you have never programmed or used the command line. Only basic omputer skills are required. If you ever made it through even a semester of a foreign language class, you will have no problem learning a cuple dozen of jargon terms from a cheet sheet.
+
+## Goals
+This session is an introduction designed to give non-techies "Aha!" moments with data and the cloud.
+
+Watching a video of downhill skiing doesn't give you the excitement of the flying down a mountain. Reading about Skype does not communicate the power of a free video call with an old friend overseas. 
+
+Open data, big data, and the cloud (virtualized compute and storage) is effecting everything we do. Reading about these trends is easy, but it seems too technical and complicated for a "non-technie" to do any of it. Sadly, that leaves many executives, managers, policy makers, and researchers without that "Aha!" moment for data and the cloud that they have had for the web, social media, and smartphones. 
+
+If you think data and the cloud is very technical, compliated -- you'll act like it is. You will treat data and the cloud as expensive and precious reources instead of the increasingly cheap commoodities they are readily available to you and that you can combine into value-added products and services.
+
+Try this hands on lab session and start to add data and the cloud to your toolkit.
+
+## Instructor Led
+The session is designed to be instructor led to answer questions and explain things.
+
+You can try the material on your own, but it is more notes than step-by-step self-paced. Just follow the *checklist.md* and jump back and forth between *outline.md* and *snippets.md* and you will probably learn something.
+
+## Typing is Learning
+The brain has evolved to find and digest patterns from a complicated, busy world. You need to feed it those patterns repeatedly to develop a new skill. You can't learn to tie your shoes only by watching someone else do it. You've got to practice with your own hands.
+
+In other words, TYPE THE EXAMPLES. What first seems bizare soon becomes recognizable patterns, understanding and muscle memory. Eventually, the commands are as second nature tying your shoes.
+
+Also, the command line has all sorts of tricks to making typing long words easier, like `tab` for autocompleting file names, and `up arrow` for finding previously typed commands. Like I said, the brain evolved to find and digest patterns... 
+
+### The right way to use copy and paste
+Some commands are long and complicated. Do what I do. I copy and paste the long command into my plain text editor. Then below the command on a new line, I type the command chareacter by character. I do this a few times depending on how well I want to learn the command at that moment. Now having typed the command for practice, I might type it in the command line or even just copy and paste it to command line so there are no errors.  
+
+
+## The Files
+
+Use *checklist.md* to get your computer ready for the lab. Print out the *commandline-cheatsheet.md* (e.g. first 2 pages) so you have handy visual reference to help you with the commands. The data files you need are listed in *urls.md". 
+
+My notes for teaching the lab are in *outline.md*. 	Command line steps are captured in *snippets.md*. 
