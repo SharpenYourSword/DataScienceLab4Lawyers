@@ -49,4 +49,7 @@ My notes for teaching the lab are in **outline.md**.
 Command line steps are captured in **snippets.md**. 
 
 ## Feedback / Questions?
-Please use the repo's issues and let me know how this can be better.
+Please use the repo's issues and for feedback and questions.
+
+## Arrange a Group/Custom Session
+I started up the Sunlight Labs and was the first Chief Data Officer at the Federal Communications Commission. I speak on this stuff all the time. Contact me at gregeelin@gitmachines.com to arrange for an awesome, inspiring group training with your staff on data science and cloud computing.
