@@ -11,7 +11,7 @@ This repo contains notes for a roughly 2 hour, interactive, hands-on introductio
 It does not matter if you have never programmed or used the command line. Only basic omputer skills are required.
 
 ## Goals
-This session is an introduction designed to give non-techies "Aha!" moments with data and the cloud. It bravely uses the command line to show you how easy it all is. Basic command line skills empowers you to take full advantage of virtualized computing assets.
+This session is an introduction designed to give non-techies "Aha!" moments with data and the cloud. It bravely uses the command line. Basic command line skills empowers you to take full advantage of virtualized computing assets.
 
 Watching a video of downhill skiing doesn't give you the excitement of the flying down a mountain. Reading about Skype does not communicate the power of a free video call with an old friend overseas. 
 
