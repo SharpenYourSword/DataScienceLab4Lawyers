@@ -34,8 +34,8 @@ Key stroke: | Computer will:   | Because:
 `delete`      | delete character left | nobody types it right the first time
 `left arrow`  | move cursor left | nobody types it right the second time
 `right arrow` | move cursor right | few type it right the third time
-`ctrl+a`  | jump to start of line | right file but wrong command
-`ctl+e`   | jump to end of line | there's always a fourth time
+`ctrl+a`  | move cursor to start of line | right file but wrong command
+`ctl+e`   | move cursor to end of line | there's always a fourth time
 `ctl+c`   | break process; stop | the computer isn't doing it right
 
 ## Connecting commands with pipes
