@@ -73,8 +73,6 @@ awk -F ":" '{ print $1 }' /usr/share/misc/flowers | awk -F "," '{ print $1 }' | 
 
 ## Connecting to remote server via the commandline
 syntax: `ssh <username>@<servername>`
-
-example: 
 ```bash
 ssh ubuntu@ec2-54-197-147-122.compute-1.amazonaws.com
 
