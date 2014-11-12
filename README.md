@@ -6,7 +6,7 @@ Lab Sessions for Learning Data Science
 ## About
 I've wanted to create an introduction to data and compute for a while. Leading a hands-on lab for Tanina Rostein's Iron Tech Lawyer class at Georgetown Law School provied the chance. 
 
-This lab is an interactive, hands-on 2 hours session. It does not matter if you have never programmed or used the command line. Only basic omputer skills are required. If you ever made it through even a semester of a foreign language class, you will have no problem learning a cuple dozen of jargon terms from a cheet sheet.
+This lab is an interactive, hands-on 2 hours session. It does not matter if you have never programmed or used the command line. Only basic omputer skills are required.
 
 ## Goals
 This session is an introduction designed to give non-techies "Aha!" moments with data and the cloud.
