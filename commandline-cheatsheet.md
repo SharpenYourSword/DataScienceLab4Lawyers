@@ -24,7 +24,7 @@ also see:
 - http://overapi.com/linux/
 - https://kb.iu.edu/d/afsk
 
-## Essential key strokes for using commandline
+## Essential command line key strokes
 
 Key stroke: | Computer will:   | Because:
 ------------|------------------|----------
