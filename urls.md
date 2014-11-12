@@ -1,13 +1,24 @@
 # Data URLs for Lab
 
 ## Consumer Finance Complaint Database
-CFBP's database of complaints related to consumer financial products. Covers 2010 to 2014 as of this posting, 50MB.
+CFBP's database of complaints related to consumer financial products. Over 300,000 complaints from 2010 to 2014 as of this posting, 50MB.
 
 What:                         | URL:
 ------------------------------|------
 Consumer Finance Complaint Database | http://www.consumerfinance.gov/complaintdatabase/
-CSV file of Consumer Finance Complaint Database | https://data.consumerfinance.gov/api/views/x94z-ydhh/rows.csv?accessType=DOWNLOAD
+Complaint Database .csv file (50MB) | https://data.consumerfinance.gov/api/views/x94z-ydhh/rows.csv?accessType=DOWNLOAD
 Online browsing | https://data.consumerfinance.gov/dataset/Consumer-Complaints/x94z-ydhh?
+
+## Home Mortgage Disclosure Act (HMDA) Data
+Anonymous information on all mortgages applied for in the US. This unzips to a large 17 million record, 3GB file. The file uses various coded values.
+
+What:                         | URL:
+------------------------------|------
+3min Intro video | http://www.consumerfinance.gov/hmda/#video
+HMDA Data Products | http://www.ffiec.gov/hmda/hmdaproducts.htm
+HMDA Flat file data page | http://www.ffiec.gov/hmda/hmdaflat.htm
+HMDA 2013 CSV file (3GB) | http://www.ffiec.gov/hmdarawdata/LAR/National/2013HMDALAR%20-%20National.zip
+
 
 ## IRS Statistics of Income (SOI) Data for 2012
 IRS published aggregated stats on income organized by zip codes
@@ -19,42 +30,27 @@ IRS SOI 2012 data sets | http://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-
 IRS Tax Statistics Page | http://www.irs.gov/uac/Tax-Stats-2
 > * Adjusted Gross Income
 
-
-- http://www.consumerfinance.gov/hmda/#video
-- http://www.ffiec.gov/hmda/hmdaproducts.htm
-- http://www.ffiec.gov/hmda/hmdaflat.htm
-
-http://www.ffiec.gov/hmdarawdata/LAR/National/2013HMDALAR%20-%20National.zip
-
-
 ## Reference URLs for Lab
 
 Name:                         | URL:
 ------------------------------|--------------------------------------------
-http://xkcd.com/1409/
-http://aws.amazon.com/free/
-http://www.datasciencetoolkit.org/developerdocs
-http://overapi.com/linux/
+Amazon Web Services | http://aws.amazon.com/free/
+Data Science Toolkit | http://www.datasciencetoolkit.org
+Linux commands cheat sheet | http://overapi.com/linux/
+Unix commands for data science | http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
+7 command line tools for data science | http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+Create embeddable charts | https://datawrapper.de
 
-# Window powershell tips
-- Invoke-WebRequest http://rambletech.wordpress.com/ -OutFile c:\temp\blog.txt
-- http://rambletech.wordpress.com/2011/09/21/windows-powershell-v3-includes-command-like-wgetcurl/
-- grep in powershell http://dereknewton.com/2010/12/powershell-grep-equivalent/
+## Window powershell tips
 
+Name:                         | URL:
+------------------------------|--------------------------------------------
+Unix commands in Powershell   |  http://rambletech.wordpress.com/2011/09/21/windows-powershell-v3-includes-command-like-wgetcurl/
+grep  in powershell            |http://dereknewton.com/2010/12/powershell-grep-equivalent/
 
-# Command line for data science Reference
-=========================================
-- http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
-`
-	Let's assume our data, which we'll call data.csv, is pipe-delimited ( | ), and we want to sum the fourth column of the file.
-	`cat data.csv | awk -F "|" '{ sum += $4 } END { printf "%.2f\n", sum }'
-	
-- http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+```bash
+# Instead of wget use "Invoke-WebRequest"
+Invoke-WebRequest http://rambletech.wordpress.com/ -OutFile c:\temp\blog.txt
+```
 
-
-# Cool Tools
-=============
-http://www.datasciencetoolkit.org
-- https://datawrapper.de
-- http://www.unixguide.net/unix/faq/1.3.shtml
 
