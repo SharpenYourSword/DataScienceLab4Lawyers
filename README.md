@@ -24,7 +24,7 @@ The goal of this lab is to create a viceral experience that data and cloud compu
 ## Instructor Led
 The session is designed to be instructor led to answer questions and explain things.
 
-You can try the material on your own, but it is more notes than step-by-step self-paced. Just follow the *checklist.md* and jump back and forth between *outline.md* and *snippets.md* and you will probably learn something.
+You can try the material on your own. It is not very step-by-step, however. Get set with the **checklist.md**. Then jump back and forth between **outline.md** and **snippets.md** and you will probably learn something. Tell me how it goes.
 
 ## Typing is Learning
 The brain has evolved to find and digest patterns from a complicated, busy world. You need to feed it those patterns repeatedly to develop a new skill. You can't learn to tie your shoes only by watching someone else do it. You've got to practice with your own hands.
@@ -38,6 +38,6 @@ It's frustrating finding and correcting errors in long, complicated commands. Wh
 
 ## The Files
 
-Use *checklist.md* to get your computer ready for the lab. Print out the *commandline-cheatsheet.md* (e.g. first 2 pages) so you have handy visual reference to help you with the commands. The data files you need are listed in *urls.md". 
+Use **checklist.md** to get your computer ready for the lab. Print out the **commandline-cheatsheet.md** (e.g. first 2 pages) so you have handy visual reference to help you with the commands. The data files you need are listed in *urls.md". 
 
-My notes for teaching the lab are in *outline.md*. 	Command line steps are captured in *snippets.md*. 
+My notes for teaching the lab are in **outline.md**. 	Command line steps are captured in **snippets.md**. 
