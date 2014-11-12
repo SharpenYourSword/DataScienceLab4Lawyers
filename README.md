@@ -19,7 +19,7 @@ Open data, big data, and the cloud (virtualized compute and storage) is effectin
 
 If you subconciously think data and cloud computing is highly technical and compliated -- you'll subconsiously act that way, too. You will treat data and cloud computing as rarities; expensive and precious reources instead of increasingly cheap commodities designed for daily, disposable use. You will turn critical decisions and actions over to expensive experts instead of empowering yourself and your staff to experiment, learn, fail, and finally innovate value-added product and services from these cheap, powerful utilities. 
 
-The goal of this lab is to create a viceral experience that data and cloud computer are as accessible to you as the supermarket.
+The goal of this lab is to create a viceral experience that data and cloud compute are as accessible to you as the supermarket.
 
 ## Instructor Led
 The session is designed to be instructor led to answer questions and explain things.
