@@ -17,7 +17,7 @@ Watching a video of downhill skiing doesn't give you the excitement of the flyin
 
 Open data, big data, and the cloud (virtualized compute and storage) is effecting everything we do. Reading about these trends is easy, but they also seem too technical and complicated for a "non-technie" to do directly. Sadly, that leaves many executives, managers, policy makers, and researchers without those "Aha!" moment for data and the cloud that they have had for the web, social media, and smartphones. 
 
-If you think data and cloud computing is highly technical and compliated -- you'll act that way. You will treat them as expensive and precious reources instead of the increasingly cheap commodities designed for daily, disposable use. You will turn critical decision making and actions over to expensive experts instead of empowering yourself and your staff to improve to redesign productivity around these cheap, powerful utilities. You will invest in moving your data center _as-is_ to the cloud is instead of innovating and creating new value-added products and services.
+If you think data and cloud computing is highly technical and compliated -- you'll act that way. You will treat them as expensive and precious reources instead of the increasingly cheap commodities designed for daily, disposable use. You will turn critical decisions and actions over to expensive experts instead of empowering yourself and your staff to innovate value-added product and services from these cheap, powerful utilities. 
 
 they are readily available to you and that you can combine into value-added products and services.
 
