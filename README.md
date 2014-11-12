@@ -34,7 +34,7 @@ In other words, TYPE THE EXAMPLES. What first seems bizare soon becomes recogniz
 Typing is control, too. This lab introduces essential key strokes that will make you super powerful and save you time.
 
 #### What about complicated commands sequences that are hard to type correctly?  
-It's frustrating finding and correcting errors in long, complicated commands. When this arrises, I combine typing with copy and paste. Copy and paste the long command into a plain text editor. Then on a new line right below, type the command character by character. Do this one or more times to grok the command. Then copy and paste what you typed into the command line to avoid typos.
+It's frustrating finding and correcting errors in long, complicated commands. When this arrises, combine typing with copy and paste. Copy and paste the long command into a plain text editor. Then on a new line right below, type the command character by character. Do this one or more times to grok the command. Then copy and paste what you typed into the command line to avoid typos.
 
 ## The Files
 
