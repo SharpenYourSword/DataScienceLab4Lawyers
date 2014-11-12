@@ -6,7 +6,6 @@ Comics
 
 ## XKCD Explains SQL Queries
 ![XKCD query comic](http://imgs.xkcd.com/comics/query.png)
-<img src="http://imgs.xkcd.com/comics/query.png" height="600" />
 (via http://xkcd.com/1409/)
 
 ## Good Coders 
