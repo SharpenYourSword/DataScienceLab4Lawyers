@@ -24,10 +24,10 @@ also see:
 - http://overapi.com/linux/
 - https://kb.iu.edu/d/afsk
 
-## Essential Key combinations for using commandline
+## Essential key strokes for using commandline
 
-Key/combo: | Computer will:   | Because:
------------|------------------|----------
+Key stroke: | Computer will:   | Because:
+------------|------------------|----------
 `tab`     | autocomplete filename | nobody remembers file names
 `up arrow`  | navigate back in command history | nobody remembers command syntax
 `down arrow` | navigate forward in command history | nobody up arrows slowly
