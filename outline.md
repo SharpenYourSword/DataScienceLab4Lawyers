@@ -64,14 +64,13 @@ head /usr/share/misc/flowers
 ```
 
 ## Get Some Data
-wget a file 
+wget consumer finance complaint database (csv) 
 
 ```bash
 wget http://freeengineer.org/learnUNIXin10minutes.html
 more learnUNIXin10minutes.html
 
 # get complaint data
-```bash 
 wget --no-check-certificate https://data.consumerfinance.gov/api/views/x94z-ydhh/rows.csv?accessType=DOWNLOAD
 ls
 mv rows.csv\?accessType\=DOWNLOAD complaints.csv
@@ -87,12 +86,15 @@ grep "/2014" complaints.csv | wc -l
 
 
 ## Repeat, at speed...
+At speed, this pretty fast. Often faster than loading data into something.
+
 - close terminal
 - open terminal
 - pwd
 - mkdir ironlawyer2
 - cd ironlawyer2
 - get the file
+
 ```
 # retrieve our file
 wget --no-check-certificate https://data.consumerfinance.gov/api/views/x94z-ydhh/rows.csv?accessType=DOWNLOAD
@@ -132,13 +134,26 @@ awk -F "," '{ print $2 }' complaints.csv | sort | uniq -c | sort -n
 - ssh remote server
 > Note: First login takes a long time
 
+About the AMI (Amazon Machine Image) we are using
+AMI | ami-fa169c92
+name | DSTK-IronLawyer
+OS | Linux
+instance type | any, from micro to very large
+username | ubuntu
+password | ironlawyer
+preloaded data | ~/ubuntu/4ironlawyer
+based on | http://www.datasciencetoolkit.org/developerdocs#setup
+
+see commandline-cheatsheet.md on how to login
+
 ## Own That Data File (CFPB Complaint Data)
-- get that data file (see snippets.md
+- get that data file (see snippets.md)
 
 ## Scrubbing the data
 
-We have a problem, there are commas within quotes. 
+We have a problem, there are commas within quotes!
 
+```bash
 awk -F "," '{ print $2","$10 }' complaints.csv 
 ...
 1030034,Credit card,09/16/2014
@@ -153,18 +168,18 @@ awk -F "," '{ print $2","$10 }' complaints.csv
 grep 1032050 complaints.csv 
 1032050,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NC,27597,Web,09/16/2014,09/16/2014,"Shellpoint Partners, LLC",Closed with explanation,Yes,
 ctl+c
+```
+
 - we got commas inside of fields!
 
-create script to clean up
-- 
-
+Create script to clean up (aka, search the web for help!)
+```bash
 awk 'NR%2-1{gsub(/,/,"|")}1' RS=\" ORS=\" a.csv | sed 's/,/:/g' | awk 'NR%2-1{gsub(/\|/,",")}1' RS=\" ORS=\"
 awk 'NR%2-1{gsub(/,/,"|")}1' RS=\" ORS=\" complaints.csv | sed 's/,/:/g' | awk 'NR%2-1{gsub(/\|/,",")}1' RS=\" ORS=\" > complaints2.csv
 (via http://www.unix.com/shell-programming-and-scripting/193311-help-awk-sed-need-replace-commas-between-double-quotes-csv-file.html)
 awk -F ":" '{ print $6 }' c.csv 
 
 awk -F ":" '{ print $2","$10 }' complaintscolon.csv 
-
 ```
 
 - back to snippets.md
