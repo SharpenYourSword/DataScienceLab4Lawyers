@@ -39,7 +39,7 @@ Key stroke: | Computer will:   | Because:
 `ctl+c`   | break process; stop | wtf? 
 
 ## Connecting commands with pipes
-Like water through pipes, output from command can be input to next command.
+Like water through pipes, output from one command can be input another command.
 
 ```bash
 # syntax for piping commands
