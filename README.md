@@ -27,13 +27,12 @@ You can try the material on your own, but it is more notes than step-by-step sel
 ## Typing is Learning
 The brain has evolved to find and digest patterns from a complicated, busy world. You need to feed it those patterns repeatedly to develop a new skill. You can't learn to tie your shoes only by watching someone else do it. You've got to practice with your own hands.
 
-In other words, TYPE THE EXAMPLES. What first seems bizare soon becomes recognizable patterns, understanding and muscle memory. Eventually, the commands are as second nature tying your shoes.
+In other words, TYPE THE EXAMPLES. What first seems bizare soon becomes recognizable patterns, understanding and muscle memory. Eventually, the commands are as second nature tying your shoes. 
 
-Also, the command line has all sorts of tricks to making typing long words easier, like `tab` for autocompleting file names, and `up arrow` for finding previously typed commands. Like I said, the brain evolved to find and digest patterns... 
+Typing is control, too. This lab introduces essential key strokes that will make you super powerful and save you time.
 
 ### The right way to use copy and paste
-Some commands are long and complicated. Do what I do. I copy and paste the long command into my plain text editor. Then below the command on a new line, I type the command chareacter by character. I do this a few times depending on how well I want to learn the command at that moment. Now having typed the command for practice, I might type it in the command line or even just copy and paste it to command line so there are no errors.  
-
+Some commands are long and complicated. I copy and paste the long command into my plain text editor. Then below the command on a new line, I type the command chareacter by character. I do this a few times depending on how well I want to learn the command at that moment. Now having typed the command for practice, I might type it in the command line or even just copy and paste it to command line so there are no errors.  
 
 ## The Files
 
