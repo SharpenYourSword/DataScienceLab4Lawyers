@@ -38,6 +38,12 @@ It's frustrating finding and correcting errors in long, complicated commands. Wh
 
 ## The Files
 
-Use **checklist.md** to get your computer ready for the lab. Print out the **commandline-cheatsheet.md** (e.g. first 2 pages) so you have handy visual reference to help you with the commands. The data files you need are listed in *urls.md". 
+Use **checklist.md** to get your computer ready for the lab. 
 
-My notes for teaching the lab are in **outline.md**. 	Command line steps are captured in **snippets.md**. 
+Print out the **commandline-cheatsheet.md** (e.g. first 2 pages) so you have handy visual reference to help you with the commands. 
+
+The data files you need are listed in **urls.md**. 
+
+My notes for teaching the lab are in **outline.md**. 	
+
+Command line steps are captured in **snippets.md**. 
