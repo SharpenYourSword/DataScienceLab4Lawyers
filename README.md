@@ -19,9 +19,7 @@ Open data, big data, and the cloud (virtualized compute and storage) is effectin
 
 If you think data and cloud computing is highly technical and compliated -- you'll act that way. You will treat them as expensive and precious reources instead of the increasingly cheap commodities designed for daily, disposable use. You will turn critical decisions and actions over to expensive experts instead of empowering yourself and your staff to innovate value-added product and services from these cheap, powerful utilities. 
 
-they are readily available to you and that you can combine into value-added products and services.
-
-Try this hands on lab session and start to add data and the cloud to your toolkit.
+Try this hands on lab session to add data and cloud computing to your toolkit.
 
 ## Instructor Led
 The session is designed to be instructor led to answer questions and explain things.
