@@ -1,10 +1,10 @@
 DataScienceLab
 ==============
 
-Lab Session for Learning Data Science as a Non-Techie
+Lab Session for Learning Data Science as a Lawyer or Other Non-Techie
 
 ## About
-I've long wanted to do a hands-on introduction to data and compute for non-techies. An invitation to be a guest lecturer in Tanina Rostein's Iron Tech Lawyer class at Georgetown Law School has provided the chance. 
+I've long wanted to do a hands-on introduction to data and compute for lawyers and other non-techies. An invitation to be a guest lecturer in Tanina Rostein's Iron Tech Lawyer class at Georgetown Law School has provided the chance. 
 
 This repo contains notes for a roughly 2 hour, interactive, hands-on introduction to data and compute from the perspective of a developer/data scientist. 
 
