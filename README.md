@@ -52,4 +52,4 @@ Command line steps are captured in **snippets.md**.
 Please use the repo's issues and for feedback and questions.
 
 ## Arrange a Group/Custom Session
-I started up the Sunlight Labs and was the first Chief Data Officer at the Federal Communications Commission. I speak on this stuff all the time. Contact me at gregeelin@gitmachines.com to arrange for an awesome, inspiring group training with your staff on data science and cloud computing.
+I started up the Sunlight Labs and was the first Chief Data Officer at the Federal Communications Commission. I speak on this stuff all the time. Contact me at gregelin@gitmachines.com to arrange for an awesome, inspiring group training with your staff on data science and cloud computing.
