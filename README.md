@@ -15,7 +15,7 @@ This session is an introduction designed to give non-techies "Aha!" moments with
 
 Watching a video of downhill skiing doesn't give you the excitement of the flying down a mountain. Reading about Skype does not communicate the power of a free video call with an old friend overseas. 
 
-Open data, big data, and the cloud (virtualized compute and storage) is effecting everything we do. Reading about these trends is easy, but it seems too technical and complicated for a "non-technie" to do any of it. Sadly, that leaves many executives, managers, policy makers, and researchers without that "Aha!" moment for data and the cloud that they have had for the web, social media, and smartphones. 
+Open data, big data, and the cloud (virtualized compute and storage) is effecting everything we do. Reading about these trends is easy, but they also seem too technical and complicated for a "non-technie" to do directly. Sadly, that leaves many executives, managers, policy makers, and researchers without those "Aha!" moment for data and the cloud that they have had for the web, social media, and smartphones. 
 
 If you think data and the cloud is very technical, compliated -- you'll act like it is. You will treat data and the cloud as expensive and precious reources instead of the increasingly cheap commoodities they are readily available to you and that you can combine into value-added products and services.
 
