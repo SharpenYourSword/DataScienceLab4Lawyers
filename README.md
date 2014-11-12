@@ -4,12 +4,14 @@ DataScienceLab
 Lab Sessions for Learning Data Science
 
 ## About
-I've wanted to create an introduction to data and compute for a while. Leading a hands-on lab for Tanina Rostein's Iron Tech Lawyer class at Georgetown Law School provied the chance. 
+I've long wanted to do a hands-on introduction to data and compute for non-techies. An invitation to be a guest lecturer in Tanina Rostein's Iron Tech Lawyer class at Georgetown Law School has provided the chance. 
 
-This lab is an interactive, hands-on 2 hours session. It does not matter if you have never programmed or used the command line. Only basic omputer skills are required.
+This repo contains notes for a roughly 2 hour, interactive, hands-on introduction to data and compute from the perspective of a developer/data scientist. 
+
+It does not matter if you have never programmed or used the command line. Only basic omputer skills are required.
 
 ## Goals
-This session is an introduction designed to give non-techies "Aha!" moments with data and the cloud.
+This session is an introduction designed to give non-techies "Aha!" moments with data and the cloud. It bravely uses the command line to show you how easy it all is. Basic command line skills empowers you to take full advantage of virtualized computing assets.
 
 Watching a video of downhill skiing doesn't give you the excitement of the flying down a mountain. Reading about Skype does not communicate the power of a free video call with an old friend overseas. 
 
