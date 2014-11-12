@@ -40,7 +40,7 @@ It's frustrating finding and correcting errors in long, complicated commands. Wh
 
 Get your computer ready for the lab with **checklist.md**. 
 
-Print out and give yourself a handy command reference with **commandline-cheatsheet.md**.
+Print yourself out a handy reference with **commandline-cheatsheet.md**.
 
 The data files you need are listed in **urls.md**. 
 
