@@ -48,7 +48,7 @@ Name:                         | URL:
 Unix commands in Powershell   |  http://rambletech.wordpress.com/2011/09/21/windows-powershell-v3-includes-command-like-wgetcurl/
 grep  in powershell            |http://dereknewton.com/2010/12/powershell-grep-equivalent/
 
-```bash
+```powershell
 # Instead of wget use "Invoke-WebRequest"
 Invoke-WebRequest http://rambletech.wordpress.com/ -OutFile c:\temp\blog.txt
 ```
