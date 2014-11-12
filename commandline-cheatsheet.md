@@ -36,7 +36,7 @@ Key stroke: | Computer will:   | Because:
 `right arrow` | move cursor right | few type it right the third time
 `ctrl+a`  | jump to start of line | right file but wrong command
 `ctl+e`   | jump to end of line | there's always a fourth time
-`ctl+c`   | break process; stop | wtf? 
+`ctl+c`   | break process; stop | wtf is the computer doing
 
 ## Connecting commands with pipes
 Like water through pipes, output from one command can be input another command.
